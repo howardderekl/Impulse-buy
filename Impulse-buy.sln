@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImpulseBuy.Web", "Impulse-buy.web\ImpulseBuy.Web.csproj", "{3BEE20FE-7F2C-4095-8E8A-640DC8C527EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImpulseBuy.Web", "src\Impulse-buy.web\ImpulseBuy.Web.csproj", "{3BEE20FE-7F2C-4095-8E8A-640DC8C527EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpulseBuy.Test", "Impulse-buy.Test\Impulse-buy.Test\ImpulseBuy.Test.csproj", "{C9FFBA16-A5C3-4CB4-BB97-128DFB925C16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpulseBuy.Test", "src\Impulse-buy.Test\Impulse-buy.Test\ImpulseBuy.Test.csproj", "{C9FFBA16-A5C3-4CB4-BB97-128DFB925C16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpulseBuy.Db", "Impulse-buy.Db\Impulse-buy.Db\ImpulseBuy.Db.csproj", "{5FBC92B7-A1B7-4174-B9E9-9D5279CD7962}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpulseBuy.Db", "src\Impulse-buy.Db\Impulse-buy.Db\ImpulseBuy.Db.csproj", "{5FBC92B7-A1B7-4174-B9E9-9D5279CD7962}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
