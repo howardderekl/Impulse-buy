@@ -19,7 +19,6 @@
     <Content Remove="ClientApp\**" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="ClientApp\app\Core\" />
     <Folder Include="ClientApp\app\Catalog\" />
     <Folder Include="ClientApp\app\CMS\" />
     <Folder Include="ClientApp\app\Vendors\" />
